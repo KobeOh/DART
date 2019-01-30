@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Kobe/Downloads/Java Dependancies/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kobe/Downloads/Java Dependancies/commons-collections4-4.1/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kobe/Downloads/Java Dependancies/commons-lang3-3.7/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kobe/Downloads/Java Dependancies/commons-text-1.4/commons-text-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kobe/Downloads/opencsv-4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
